@@ -5,14 +5,16 @@
 # !!! Sensor Kit Configuration Folder
 
 * **To run the sensor_kit mkz_model make sure you have the below repository in the Autoware**
-* Autoware
-  └── src
-      └── param
-          └── autoware_individual_params
-              └── individual_params
-                  └── config
-                      └── default
-                          └── mkz_sensor_kit
+
+  Autoware
+   └src
+      └ param
+          └ autoware_individual_params
+              └ individual_params
+                  └config
+                      └ default
+                          └ mkz_sensor_kit
+
 * Clone the repo from the below link.
 
 ```cmd
